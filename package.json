@@ -1,0 +1,23 @@
+{
+  "name": "restbus-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisalbert/restbus-api-server.git"
+  },
+  "author": "Kris Albert Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krisalbert/restbus-api-server/issues"
+  },
+  "homepage": "https://github.com/krisalbert/restbus-api-server#readme",
+  "dependencies": {
+    "restbus": "^1.1.3"
+  }
+}
